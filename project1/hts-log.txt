@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Aug 2020 10:31:52 at https://aircooleradvisor.org/nexcooler-review-n/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aircooleradvisor.org/nexcooler-review-n/ -O1 "C:\Users\ROBIN\OneDrive\Documents\Websites to Copied\1project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:32:01	Error: 	"Not Found" (404) at link https://aircooleradvisor.org/nexcooler-review-n/images/quote.png (from https://aircooleradvisor.org/nexcooler-review-n/)
+10:32:01	Error: 	"Forbidden" (403) at link https://aircooleradvisor.org/wp-content/uploads/2020/06/nexcooler-1-2-4-5-6-1024x576.jpg (from https://aircooleradvisor.org/nexcooler-review-n/)
+10:32:01	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://aircooleradvisor.org/nexcooler-review-n/)
+10:32:01	Error: 	"Forbidden" (403) at link https://aircooleradvisor.org/wp-content/plugins/contact-form-7/images/ajax-loader.gif (from https://aircooleradvisor.org/wp-content/cache/min/1/2bca0d3ec48e1027400874233bae6c7e.css)
+10:32:01	Error: 	"Forbidden" (403) at link https://aircooleradvisor.org/wp-content/themes/flatsome/assets/img/shadow@2x.png (from https://aircooleradvisor.org/wp-content/cache/min/1/2bca0d3ec48e1027400874233bae6c7e.css)
+10:32:01	Error: 	"Forbidden" (403) at link https://aircooleradvisor.org/wp-content/themes/flatsome/assets/img/underline.png (from https://aircooleradvisor.org/wp-content/cache/min/1/2bca0d3ec48e1027400874233bae6c7e.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 26 links scanned, 19 files written (2489294 bytes overall) [2111385 bytes received at 234598 bytes/sec], 581871 bytes transferred using HTTP compression in 11 files, ratio 26%, 5.2 requests per connection
+(6 errors, 0 warnings, 0 messages)

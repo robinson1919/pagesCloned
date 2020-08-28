@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.aircooleradvisor.org	TRUE	/	FALSE	1999999999	__cfduid	da4378073977e005d9b2f854d15bc3a021598625121
+aircooleradvisor.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+

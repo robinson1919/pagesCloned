@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.topgadgetgifts.com	TRUE	/	FALSE	1999999999	__cfduid	da0fbfd6093f6ce2e77cc1ea1e84280df1598625276
+www.topgadgetgifts.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.onesignal.com	TRUE	/	FALSE	1999999999	__cfduid	d17173722dc72195c9df43da6efd582aa1598625277
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.newsgadgetinnovation.com	TRUE	/	FALSE	1999999999	__cfduid	d1858ecfe5882d54ac099e6485de114c61598625278
+revolutionare-klimaanlage.newsgadgetinnovation.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
